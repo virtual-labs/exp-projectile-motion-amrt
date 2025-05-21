@@ -2,37 +2,39 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The maximum number of rectangular components into which a vector can be resolved in its own plane is",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "1",
+        "b": "2",
+        "c": "3",
+        "d": "4"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+      
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "The projectile has maximum value of time of flight, when it is projected at an angle of projection",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "0<sup>0</sup>",
+        "b": "5<sup>0</sup>",
+        "c": "90<sup>0</sup>",
+        "d": "180<sup>0</sup>"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The maximum height reached by a particle is independent of",
+      "answers": {
+        "a": "Angle of projection",
+        "b": "Initial velocity",
+        "c": "Acceleration of the projectile",
+        "d": "Mass of the projectile"
+      },
+      
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
