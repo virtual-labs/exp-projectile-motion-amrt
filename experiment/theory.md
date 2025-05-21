@@ -10,7 +10,7 @@ Projectile is defined as, any body thrown with some initial velocity, which is t
 ### Horizontal motion of projectile
  
 
-The speed in the horizontal direction is $V_{x}$' and this speed doesn't change. The equation which predicts the position at any time in the horizontal direction is simply,
+The speed in the horizontal direction is $V_{x}$ and this speed doesn't change. The equation which predicts the position at any time in the horizontal direction is simply,
 
 $$X=V_{x}t$$
 
@@ -29,7 +29,7 @@ $$Y_{f}=Y_{o}+V_{oy}t+\frac{1}{2}at^{2}$$
 
 Acceleration for projectiles near the Earth's surface is $-9.8 m/s^{2}$. We don't re-write the equation with a negative sign.  Rather, we use the negative acceleration value when solving problems.
  
-When a projectile is launched horizontally  a ball rolls off a table, a car runs off the edge of a cliff, etc.  Here the original y-velocity is zero. For example, if the projectile drops 10 meters, you can set the $Y_{o} = 0$ and $Y_{f} = -10 m$. Or, you can set $Y_{o} = 10 m$ and $Y_{f} = 0$. Either works out the same.
+When a projectile is launched horizontally  a ball rolls off a table, a car runs off the edge of a cliff, etc.  Here the original y-velocity is zero. For example, if the projectile drops 10 meters, you can set the initial position $Y_{o} = 0$ and final position $Y_{f} = -10 m$. Or, you can set $Y_{o} = 10 m$ and $Y_{f} = 0$. Either works out the same.
 
  
 
@@ -41,7 +41,7 @@ When a projectile is launched horizontally  a ball rolls off a table, a car runs
 To determine the total velocity of a projectile, we combine the horizontal velocity
 ( $v_{x}$ ) and the vertical velocity ( $v_{y}$ ) using the Pythagorean Theorem,
 
-$$v=(v_{x}^{2}+v_{y}^{2})^{1/2}$$
+$$v=\sqrt{(v_{x}^{2}+v_{y}^{2})}$$
 
 
 ### At maximum height
