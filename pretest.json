@@ -1,0 +1,29 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Which among the following is not a vector?",
+      "answers": {
+        "a": "Electric current",
+        "b": "Force",
+        "c": "Momentum",
+        "d": "Acceleration"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The resultant of two vectors is minimum when the angle between them is",
+      "answers": {
+        "a": "0<sup>0</sup>",
+        "b": "5<sup>0</sup>",
+        "c": "90<sup>0</sup>",
+        "d": "180<sup>0</sup>"
+      },
+     
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+  ]
+}
